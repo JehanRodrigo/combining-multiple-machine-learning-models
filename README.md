@@ -2,12 +2,12 @@
 pip install pillow
 
 ```
-#Installation
+# Installation
 
-*Install 🤗 Transformers for whichever deep learning library you’re working with, setup your cache, and optionally configure 🤗 Transformers to run offline.
-*🤗 Transformers is tested on Python 3.6+, PyTorch 1.1.0+, TensorFlow 2.0+, and Flax. Follow the installation instructions below for the deep learning library you are using:
+* Install 🤗 Transformers for whichever deep learning library you’re working with, setup your cache, and optionally configure 🤗 Transformers to run offline.
+* 🤗 Transformers is tested on Python 3.6+, PyTorch 1.1.0+, TensorFlow 2.0+, and Flax. Follow the installation instructions below for the deep learning library you are using:
 
-[PyTorch installation instructions](https://pytorch.org/get-started/locally/)
+* [PyTorch installation instructions](https://pytorch.org/get-started/locally/)
 TensorFlow 2.0[https://www.tensorflow.org/install/pip] installation instructions.
 Flax[https://flax.readthedocs.io/en/latest/] installation instructions.
 
